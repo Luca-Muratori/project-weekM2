@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: unset;
+}
 
 
 .iconMediumTwitter{
@@ -24,7 +26,33 @@
     display: inline-table;
 }
 
-.recommendedTopics{
-    color: grey;
-    border-radius: 3px;
+
+
+
+.topic{
+    background-color: rgb(235, 235, 235);
+    width: fit-content;
+   
+    font-size: 13px;
+    overflow: unset;
+}
+
+
+.followIcon{
+    width: 14%;
+    border-radius: 20rem;
+    height: 10%;
+    
+}
+
+.whoToFollow{
+    display:flex;
+     justify-content:space-evenly;
+     font-size: 13px;
+}
+
+
+.followButton{
+    height: 10%;
+    width: 20%;  
 }
