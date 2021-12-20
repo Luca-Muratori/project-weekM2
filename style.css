@@ -1,0 +1,16 @@
+
+
+
+.iconMediumTwitter{
+    display:flex;
+    justify-content: center;
+}
+
+.container{
+    height: 100%;
+}
+
+.text-muted{
+    font-size: 13px;
+    
+}
