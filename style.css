@@ -23,3 +23,8 @@
     width: 73%;
     display: inline-table;
 }
+
+.recommendedTopics{
+    color: grey;
+    border-radius: 3px;
+}
