@@ -4,6 +4,7 @@
 .iconMediumTwitter{
     display:flex;
     justify-content: center;
+   ;
 }
 
 .container{
@@ -16,6 +17,9 @@
 
 }
 
-.twitterLogo{
+.connectToTwitter{
     font-size: 13px;
+    height: 40px;
+    width: 73%;
+    display: inline-table;
 }
