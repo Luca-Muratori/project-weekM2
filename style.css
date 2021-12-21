@@ -74,3 +74,10 @@
 .mediumIcn{
     font-size: 200%;
 }
+
+
+.navBarIcon{
+    width: 40px;
+    height: 40px;
+    border-radius: 25rem;
+}
